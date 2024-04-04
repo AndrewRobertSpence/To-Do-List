@@ -1,0 +1,12 @@
+:root {
+    --white: #fff;
+    --lightpurple:  rgba(223, 216, 252, 0.842); 
+    --darkpurple: rgb(59, 1, 153);
+    --grey: rgb(102, 102, 102);
+    --mediumpurple: rgb(45, 0, 206); 
+    --lightblue: rgb(94,187,255); 
+    --lightgreen: rgb(0, 214, 18);
+    --lightorange: rgb(255, 132, 65);
+    --lightred: rgb(255, 88, 88);
+    --black: #000;
+    }
