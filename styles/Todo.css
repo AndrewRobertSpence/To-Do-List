@@ -76,6 +76,7 @@ input {
   margin-right: 10px;
   background-color: var(--lightpurple);
   text-align: center;
+  color: var(--darkpurple)
 }
 
 #list__ul {
